@@ -9,3 +9,5 @@ elif month < 2 or month == 2 and day < 18:
 
 else:
     print("After")
+
+# finished in 5 minutes
